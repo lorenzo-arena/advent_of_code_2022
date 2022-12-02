@@ -12,7 +12,6 @@ public partial class PuzzleSolver01 : Node
 		try
 		{
 			var inputPath = Godot.ProjectSettings.GlobalizePath("res://day_01/input.txt");
-			var inputText = System.IO.File.ReadAllText(inputPath);
 			var elves = new List<int>();
 
 			// Push the first elf
@@ -46,7 +45,6 @@ public partial class PuzzleSolver01 : Node
 		try
 		{
 			var inputPath = Godot.ProjectSettings.GlobalizePath("res://day_01/input.txt");
-			var inputText = System.IO.File.ReadAllText(inputPath);
 			var elves = new List<int>();
 
 			// Push the first elf
