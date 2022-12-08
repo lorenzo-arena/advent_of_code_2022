@@ -11,7 +11,7 @@ config_version=5
 [application]
 
 config/name="Advent Of Code 2022"
-run/main_scene="res://day_07/day_07.tscn"
+run/main_scene="res://day_08/day_08.tscn"
 config/features=PackedStringArray("4.0", "C#", "Forward Plus")
 config/icon="res://icon.svg"
 
