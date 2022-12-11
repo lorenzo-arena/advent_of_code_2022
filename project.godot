@@ -10,9 +10,9 @@ config_version=5
 
 [application]
 
-config/name="Advent Of Code 2022"
-run/main_scene="res://day_10/day_10.tscn"
-config/features=PackedStringArray("4.0", "C#", "Forward Plus")
+config/name="advent-of-code-2022"
+run/main_scene="res://day_11/day_11.tscn"
+config/features=PackedStringArray("4.0", "Forward Plus")
 config/icon="res://icon.svg"
 
 [dotnet]
