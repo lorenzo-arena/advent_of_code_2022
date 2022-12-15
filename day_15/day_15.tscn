@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://mmay4emu786a"]
+
+[ext_resource type="Script" path="res://day_15/PuzzleSolver15.cs" id="1_453ng"]
+
+[node name="Day15" type="Node2D"]
+
+[node name="PuzzleSolver15" type="Node" parent="."]
+script = ExtResource("1_453ng")
